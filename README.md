@@ -1,6 +1,6 @@
 * Initial release!
 
-# Project Title
+# RSS Post Import
 
 RSS post import for wordpress website
 
