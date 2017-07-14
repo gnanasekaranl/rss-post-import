@@ -2,7 +2,7 @@
 
 # RSS Post Import
 
-RSS post import for wordpress website
+RSS post import from third party website by only using URL in wordpress website
 
 ### Prerequisites
 
